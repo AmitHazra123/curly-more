@@ -1,0 +1,42 @@
+# Site settings
+description: A blog about teaching GitHub
+baseurl: "/curly-more/" # the subpath of your site, e.g. /blog/
+url: "http://githubteacher.github.io" # the base hostname & protocol for your site
+
+# User settings
+username: GitHub Teacher
+user_description: Anon Developer at Lorem Ipsum Dolor
+user_title: Anon Developer
+email: trainingdemos+githubteacher@github.com
+twitter_username: githubtraining
+github_username:  githubteacher
+gplus_username:  lorem_ipsum
+disqus_username: lorem_ipsum
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
