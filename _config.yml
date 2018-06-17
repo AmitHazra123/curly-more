@@ -1,7 +1,7 @@
 # Site settings
 description: A blog about teaching GitHub
 baseurl: "/curly-more/" # the subpath of your site, e.g. /blog/
-url: "http://useramit2153.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # User settings
 username: Amit Hazra
