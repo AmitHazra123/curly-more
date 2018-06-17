@@ -4,12 +4,12 @@ baseurl: "/curly-more/" # the subpath of your site, e.g. /blog/
 url: "http://githubteacher.github.io" # the base hostname & protocol for your site
 
 # User settings
-username: GitHub Teacher
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: trainingdemos+githubteacher@github.com
+username: Amit Hazra
+user_description: Web Developer at Microsoft Trianing Association
+user_title: Web Developer
+email: shivahazra@gmail.com
 twitter_username: githubtraining
-github_username:  githubteacher
+github_username:  useramit2153
 gplus_username:  lorem_ipsum
 disqus_username: lorem_ipsum
 
